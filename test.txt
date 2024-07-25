@@ -1,0 +1,8 @@
+mongodb+srv://moreprajwal37:prajwal07@cluster0.v8j66zy.mongodb.net/ECommerce
+
+port number   5000
+
+express     nodemon     body-parser     mongoose
+
+
+http://localhost:5005/
